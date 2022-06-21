@@ -1,0 +1,15 @@
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.csproj.AssemblyReference.cache
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.AssemblyInfoInputs.cache
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.AssemblyInfo.cs
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.csproj.CoreCompileInputs.cache
+C:\Users\lenda\Desktop\4hw\N25\bin\Debug\net6.0\N25.exe
+C:\Users\lenda\Desktop\4hw\N25\bin\Debug\net6.0\N25.deps.json
+C:\Users\lenda\Desktop\4hw\N25\bin\Debug\net6.0\N25.runtimeconfig.json
+C:\Users\lenda\Desktop\4hw\N25\bin\Debug\net6.0\N25.dll
+C:\Users\lenda\Desktop\4hw\N25\bin\Debug\net6.0\N25.pdb
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.dll
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\refint\N25.dll
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.pdb
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\N25.genruntimeconfig.cache
+C:\Users\lenda\Desktop\4hw\N25\obj\Debug\net6.0\ref\N25.dll
